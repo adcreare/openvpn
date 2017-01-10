@@ -1,7 +1,7 @@
 ## Expects easy-rsa2 has already been downloaded https://github.com/OpenVPN/easy-rsa/tree/master/easyrsa3
 
 #step 1
-mv  vars.example to vars
+mv  vars.example vars
 
 
 #step 2 build the CA
